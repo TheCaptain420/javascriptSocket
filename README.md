@@ -1,2 +1,2 @@
 # javascriptSocket
-Se index.js for noter
+Se index.js for program
